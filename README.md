@@ -3,4 +3,5 @@
 An Android Calculator project using Flutter and dart. 
 
 ## Screenshots
-![alt text](screenshots/screen.png)
+
+<img src="screenshots/screen.png" width="600" />
